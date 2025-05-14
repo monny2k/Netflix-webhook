@@ -1,0 +1,11 @@
+{
+  "name": "netflix-playwright",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "playwright": "^1.42.1"
+  }
+}
